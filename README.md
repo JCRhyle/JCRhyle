@@ -40,9 +40,6 @@ I’m open to partnerships, advisory roles, and conversations that drive innovat
 - Contributing as a VC scout and researcher at PHI Finance
   
 ---
-
-## GitHub Stats
-
 <!-- <div align="center">
 
 <a href="https://github.com/JCRhyle">
@@ -66,7 +63,7 @@ I’m open to partnerships, advisory roles, and conversations that drive innovat
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JCRhyle&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JCRhyle&theme=nord_bright)
@@ -74,7 +71,7 @@ I’m open to partnerships, advisory roles, and conversations that drive innovat
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JCRhyle&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JCRhyle&theme=nord_bright&utcOffset=8)
 
-<br /><br />
+<br /><br /> -->
 
 <!-- <a href="https://github.com/JCRhyle">
   <img src="https://github-profile-trophy.vercel.app/?username=JCRhyle&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
@@ -82,15 +79,10 @@ I’m open to partnerships, advisory roles, and conversations that drive innovat
 
 </div>
 
----
 
 <!-- <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JCRhyle/assets/blob/main/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/JCRhyle/assets/blob/main/github-contribution-grid-snake-light.svg" />
-  <img alt="github-snake" src="https://github.com/JCRhyle/assets/blob/main/github-contribution-grid-snake.svg" />
-</picture>
+
 
 </div> -->
 
@@ -192,7 +184,10 @@ Over 7 years of experience building, shipping, and improving software across web
 
 ## Education
 
-**Bachelor of Computer Science**  
+**Bachelor of Computer Science** 
+Cebu Institute of Technology | 2010 - 2014
+Mapua University | 2025 - Present
+Development Academy of the Philippines (DAP) | 2020 - Present
 
 ---
 
