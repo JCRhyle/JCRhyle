@@ -47,7 +47,6 @@ I bridge engineering and growth. As a software engineer, I ship production AI/ML
 ### Tech Stack
 
 **Languages**
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -56,7 +55,6 @@ I bridge engineering and growth. As a software engineer, I ship production AI/ML
 ![Bash](https://img.shields.io/badge/-Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Frontend**
-
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -67,7 +65,6 @@ I bridge engineering and growth. As a software engineer, I ship production AI/ML
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-E10098?style=for-the-badge&logo=framer&logoColor=white)
 
 **Backend & APIs**
-
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -78,7 +75,6 @@ I bridge engineering and growth. As a software engineer, I ship production AI/ML
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 **AI / ML**
-
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -88,7 +84,6 @@ I bridge engineering and growth. As a software engineer, I ship production AI/ML
 ![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=for-the-badge&logoColor=black)
 
 **Cloud & DevOps**
-
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -126,6 +121,7 @@ I bridge engineering and growth. As a software engineer, I ship production AI/ML
 | Period | Role | Company | Type |
 | :--- | :--- | :--- | :--- |
 | Oct 2025 – Present | Web3 BD Consultant | Victus Global | Freelance |
+| 2025 – Present | Artificial Intelligence Engineer | Surigao Education Center | Part-time, Hybrid (Caraga, PH) |
 | 2024 – Present | Co-Founder | Startup Accelerate | Part-time |
 | 2024 – Present | VC Scout & Researcher | PHI Finance | Part-time |
 | 2019 – Present | Software Engineer | goLance | Freelance |
