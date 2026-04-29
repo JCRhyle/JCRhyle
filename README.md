@@ -19,22 +19,25 @@ Creative Software Engineer | AI/ML Engineer | Full-Stack Developer | Prompt Engi
 ```ts
 const rui = {
   name: "Jemelito Constantino",
-  role: "Creative Software Engineer",
+  role: "AI & Web3 Growth Specialist | Software Engineer focus on AI | Founder @ Startup Accelerate | VC Scout & Research @ PHI Finance | Ex-PointPay",
   location: "Philippines",
-  focus: ["AI / ML", "Web Development", "Automation", "Prompt Engineering"],
-  currentWork: "Building AI-powered tools and high-performance digital products",
+  focus: ["AI / ML", "Web Development", "Community Management", "Relationship Manager"],
+  currentWork: "Market expansion with hands-on experience as a software engineer focused on AI development",
   availability: "Open to freelance work and collaborations",
 };
 ```
 
-I am a software engineer with a strong foundation in AI, machine learning, and modern web development. I build products that balance technical reliability, performance, and thoughtful user experience.
+I’m a strategic leader in Web3, business development, partnerships, and market expansion with hands-on experience as a software engineer focused on AI development. I’ve built my career around connecting technology with real business impact, spanning fundraising, client relationship management, startup acceleration, and scouting emerging opportunities for investors.
 
-My work spans full-stack applications, automation systems, AI integrations, and interactive front-end experiences. I am especially interested in practical LLM systems, production-ready ML workflows, and scalable cloud-based solutions.
+At SOIN Global, I focus on community engagement and client success, driving acquisition and retention through tailored strategies that align audience needs with organizational goals. I’m passionate about building strong relationships, enhancing brand visibility, and delivering meaningful outcomes for stakeholders.
+
+Beyond operations, I co-founded Startup Accelerate to support founders with practical frameworks for growth and execution. I also contribute as a VC scout and researcher at PHI Finance, identifying trends and opportunities in the startup ecosystem.
+I’m open to partnerships, advisory roles, and conversations that drive innovation and growth in technology and business.
 
 - Currently working as an AI/ML Engineer delivering production-focused solutions
 - Building experience in LLM systems, agent workflows, and cloud architecture
-- Focused on clean implementation, performance optimization, and maintainable systems
-- Open to freelance opportunities, collaborations, and product-focused engineering work
+- Community engagement and client success, driving acquisition
+- Contributing as a VC scout and researcher at PHI Finance
   
 ---
 
@@ -178,13 +181,12 @@ My work spans full-stack applications, automation systems, AI integrations, and 
 
 | Period | Role | Company | Location |
 | :--- | :--- | :--- | :--- |
-| Mar 2025 - Present | AI/ML Engineer | Self-Employed | Remote, USA |
-| Jul 2022 - Jan 2026 | Prompt Engineer | Outlier.ai | Remote, USA |
-| Jun 2020 - Dec 2022 | Freelance Software Developer | Upwork | Remote, USA |
-| Sep 2019 - May 2020 | Volunteer Web Developer | Non-Profit Organization | Remote, Hong Kong |
-| Jun 2018 - Aug 2019 | Intern Software Engineer | Tech Startup | Hybrid, Hong Kong |
+| Oct 2025 - Present | Web3 BD Consultant | Victus Global | Freelance |
+| 2019 - Present | Sofware Engineer | goLance | Freelance |
+| Jun 2021 - Dec 2023 | Freelance Software Developer | Upwork | Freelance |
+| Jun 2018 - Aug 2019 | Intern Software Engineer | SafeTravelPH | On-site, Philipines|
 
-Over 5 years of experience building, shipping, and improving software across web, AI, and automation workflows.
+Over 7 years of experience building, shipping, and improving software across web, AI, and automation workflows.
 
 ---
 
@@ -217,7 +219,7 @@ An AI-based system for protecting Instagram photos from unauthorized use through
 - Dashboard for managing protected assets
 
 ### [TrashLion SaaS Landing Page](https://www.trashlion.com/)
-Responsive, conversion-focused landing page built for a SaaS product. [Repository](https://github.com/Rui0801/trash-lion-app)
+Responsive, conversion-focused landing page built for a SaaS product. [Repository]
 
 **Stack:** `Next.js` `TailwindCSS` `React` `Resend`
 
@@ -226,15 +228,15 @@ Responsive, conversion-focused landing page built for a SaaS product. [Repositor
 - Email integration with Resend
 - Clean, modern UI focused on clarity and performance
 
-### [GitHub Scraping Tool]
-Real-time GitHub data scraper with interactive dashboards for analysis and reporting.
+### [America's Most Trusted Roofing & Junk Hauling Websites](https://website-ten-tan-70.vercel.app/)
+The most effective company for roofing, junk hauling, websites, and ads.
 
-**Stack:** `Python` `CustomTkinter` `GitHub API`
+**Stack:** `Next.js` `TailwindCSS` `Nest` `PostgreSQL`
 
-- Real-time GitHub data collection
-- Interactive dashboards for insights
-- Desktop UI built with CustomTkinter
-- API-based reporting workflow
+- Responsive design across devices
+- Conversion-oriented layout and calls to action
+- Email integration with Resend
+- Clean, modern UI focused on clarity and performance
 
 ---
 
