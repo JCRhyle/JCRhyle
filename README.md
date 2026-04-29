@@ -2,7 +2,7 @@
 
 # Jemelito Constantino
 
-Creative Software Engineer | AI/ML Engineer | Full-Stack Developer | Prompt Engineer
+Creative Software Engineer | AI/ML Engineer | VC Scout & Research @ PHI Finance | AI & Web3 Growth Specialist
 
 [![Profile Views](https://komarev.com/ghpvc/?username=JCRhyle&label=Profile%20Views&color=38bdf8&style=flat-square)](https://github.com/JCRhyle)
 [![GitHub followers](https://img.shields.io/github/followers/l?label=Follow&style=flat-square&color=38bdf8)](https://github.com/JCRhyle)
