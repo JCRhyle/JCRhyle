@@ -185,9 +185,12 @@ Over 7 years of experience building, shipping, and improving software across web
 ## Education
 
 **Bachelor of Computer Science** 
-Cebu Institute of Technology | 2010 - 2014
-Mapua University | 2025 - Present
-Development Academy of the Philippines (DAP) | 2020 - Present
+
+| University | Duration |
+| :--- | :--- |
+| Cebu Institute of Technology | 2010 - 2014 |
+| Mapua University | 2025 - Present |
+| Development Academy of the Philippines (DAP) | 2020 - Present |
 
 ---
 
